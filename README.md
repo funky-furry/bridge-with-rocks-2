@@ -1,2 +1,2 @@
-# bridge-with-rocks-2
-same thing as the last one :) but it has zombie
+# esmague-zumbis-2
+solução do projeto de c30
